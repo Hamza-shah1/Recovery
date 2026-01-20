@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Copy of RECOVR: AI Money Recovery",
+  "description": "A digital money recovery and receipt management platform for salesmen, clients, and companies, enhanced with Gemini AI for voice-activated payments, automated ledger summaries, and AI-powered business verification.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
